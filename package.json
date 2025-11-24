@@ -1,0 +1,25 @@
+{
+  "name": "noted",
+  "version": "1.0.0",
+  "description": "capstone project",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nigel-Wrightington/Noted.git"
+  },
+  "keywords": [
+    "capstone"
+  ],
+  "author": "FSA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nigel-Wrightington/Noted/issues"
+  },
+  "homepage": "https://github.com/Nigel-Wrightington/Noted#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
