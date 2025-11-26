@@ -28,9 +28,9 @@ async function seed() {
 
   // Insert 3 Reviews -- TO DO
   const reviews = [
-    [5, "A great record", 000001],
-    [4, "A good album", 000001],
-    [5, "Not one bad song", 000001]
+    [5, "A great record", 1001],
+    [4, "A good album", 1001],
+    [5, "Not one bad song", 1001]
   ]
 
   console.log("Seeding Complete");
